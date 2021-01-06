@@ -1,0 +1,1 @@
+cout << "Case #" << i << ": " << count << "\n";  
